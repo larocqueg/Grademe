@@ -20,7 +20,7 @@ int	main(int ac, char **av)
 {
 	int	i = 0;
 	int	j = 0;
-	int k = 0;
+	int 	k = 0;
 	int	count = 0;
 	char	temp[256] = {0};
 	if (ac >= 2)
