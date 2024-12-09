@@ -1,0 +1,8 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "This is a test " 
+        🔎 YOUR OUTPUT:
+is a test ^@SHELL=/bin/zsh This$
+        🗝 EXPECTED OUTPUT:
+is a test This$
+----------------8<------------- END TEST ]

@@ -1,0 +1,8 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "     AkjhZ zLKIJz , 23y" 
+        🔎 YOUR OUTPUT:
+AkjhZ zLKIJz , 23y AkjhZ$
+        🗝 EXPECTED OUTPUT:
+zLKIJz , 23y AkjhZ$
+----------------8<------------- END TEST ]
