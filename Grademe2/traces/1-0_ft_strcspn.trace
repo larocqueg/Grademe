@@ -1,0 +1,7 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "test" "es"         🔎 YOUR OUTPUT:
+ft_strcspn("test", "es") = 4$
+        🗝 EXPECTED OUTPUT:
+ft_strcspn("test", "es") = 1$
+----------------8<------------- END TEST ]

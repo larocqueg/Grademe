@@ -1,0 +1,7 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "Ceci permet de decouvrir le fonctionnement de ton ft_atoi."         🔎 YOUR OUTPUT:
+gcc: error: ../../rendu/ft_atoi/ft_atoi.c: No such file or directory
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
