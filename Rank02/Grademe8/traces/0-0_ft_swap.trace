@@ -1,0 +1,7 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out         🔎 YOUR OUTPUT:
+gcc: error: ../../rendu/ft_swap/ft_swap.c: No such file or directory
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
