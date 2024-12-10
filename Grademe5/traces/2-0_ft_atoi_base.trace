@@ -1,0 +1,14 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "Ceci permet de decouvrir le fonctionnement de ton ft_atoi_base." "16"         🔎 YOUR OUTPUT:
+../../rendu/ft_atoi_base/ft_atoi_base.c: In function ‘ft_atoi_base’:
+../../rendu/ft_atoi_base/ft_atoi_base.c:10:14: error: assignment of read-only location ‘*(str + (sizetype)i)’
+   10 |   if (str[i] = '-')
+      |              ^
+../../rendu/ft_atoi_base/ft_atoi_base.c:19:4: error: ‘digit’ undeclared (first use in this function)
+   19 |    digit += str[i] - 'a' + 10;
+      |    ^~~~~
+../../rendu/ft_atoi_base/ft_atoi_base.c:19:4: note: each undeclared identifier is reported only once for each function it appears in
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
