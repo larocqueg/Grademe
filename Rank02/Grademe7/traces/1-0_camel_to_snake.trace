@@ -1,0 +1,8 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "hereIsACamelCaseString" 
+        🔎 YOUR OUTPUT:
+here_Is_A_Camel_Case_String$
+        🗝 EXPECTED OUTPUT:
+here_is_a_camel_case_string$
+----------------8<------------- END TEST ]

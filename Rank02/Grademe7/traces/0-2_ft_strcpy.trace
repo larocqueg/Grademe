@@ -1,0 +1,13 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "Ceci permet de decouvrir le fonctionnement de ton ft_strcpy."         🔎 YOUR OUTPUT:
+../../rendu/ft_strcpy/ft_strcpy.c: In function ‘ft_strcpy’:
+../../rendu/ft_strcpy/ft_strcpy.c:7:3: warning: implicit declaration of function ‘retun’ [-Wimplicit-function-declaration]
+    7 |   retun (NULL);
+      |   ^~~~~
+/usr/bin/ld: /tmp/ccuZAi0T.o: in function `ft_strcpy':
+ft_strcpy.c:(.text+0x34): undefined reference to `retun'
+collect2: error: ld returned 1 exit status
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]

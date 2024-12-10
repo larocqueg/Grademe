@@ -1,0 +1,7 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "Ceci permet de decouvrir le fonctionnement de ton ft_strcpy."         🔎 YOUR OUTPUT:
+ft_strcpy("Ceci permet de decouvrir le fonctionnement de ton ft_strcpy.", str) = $
+        🗝 EXPECTED OUTPUT:
+ft_strcpy("Ceci permet de decouvrir le fonctionnement de ton ft_strcpy.", str) = Ceci permet de decouvrir le fonctionnement de ton ft_strcpy.$
+----------------8<------------- END TEST ]
