@@ -1,0 +1,16 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out         🔎 YOUR OUTPUT:
+../../rendu/sort_list/sort_list.c: In function ‘sort_list’:
+../../rendu/sort_list/sort_list.c:9:10: error: incompatible types when assigning to type ‘t_list’ {aka ‘struct s_list’} from type ‘t_list *’ {aka ‘struct s_list *’}
+    9 |  start = lst;
+      |          ^~~
+../../rendu/sort_list/sort_list.c:17:10: error: incompatible types when assigning to type ‘t_list *’ {aka ‘struct s_list *’} from type ‘t_list’ {aka ‘struct s_list’}
+   17 |    lst = start;
+      |          ^~~~~
+../../rendu/sort_list/sort_list.c:22:9: error: incompatible types when returning type ‘t_list’ {aka ‘struct s_list’} but ‘t_list *’ {aka ‘struct s_list *’} was expected
+   22 |  return (start);
+      |         ^
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]

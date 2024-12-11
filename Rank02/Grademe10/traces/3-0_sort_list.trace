@@ -1,0 +1,10 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out         🔎 YOUR OUTPUT:
+../../rendu/sort_list/sort_list.c:2:10: fatal error: unistd: No such file or directory
+    2 | #include <unistd>
+      |          ^~~~~~~~
+compilation terminated.
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
