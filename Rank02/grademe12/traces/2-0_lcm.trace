@@ -1,0 +1,15 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "1" "2"         🔎 YOUR OUTPUT:
+../../rendu/lcm/lcm.c: In function ‘lcm’:
+../../rendu/lcm/lcm.c:13:4: error: ‘retur’ undeclared (first use in this function)
+   13 |    retur n(lcm);
+      |    ^~~~~
+../../rendu/lcm/lcm.c:13:4: note: each undeclared identifier is reported only once for each function it appears in
+../../rendu/lcm/lcm.c:13:9: error: expected ‘;’ before ‘n’
+   13 |    retur n(lcm);
+      |         ^~
+      |         ;
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
