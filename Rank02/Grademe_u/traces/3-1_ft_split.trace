@@ -1,0 +1,7 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "t a b c "         🔎 YOUR OUTPUT:
+ a b c (null)$
+        🗝 EXPECTED OUTPUT:
+t a b c (null)$
+----------------8<------------- END TEST ]

@@ -1,0 +1,9 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "three words apart"         🔎 YOUR OUTPUT:
+/usr/bin/ld: /tmp/ccMOe8bn.o: in function `main':
+main.c:(.text+0x0): multiple definition of `main'; /tmp/ccVO2EAQ.o:ft_split.c:(.text+0x3b0): first defined here
+collect2: error: ld returned 1 exit status
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
