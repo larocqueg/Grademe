@@ -1,0 +1,13 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "1" "3"         🔎 YOUR OUTPUT:
+../../rendu/ft_range/ft_range.c: In function ‘ft_range’:
+../../rendu/ft_range/ft_range.c:25:2: warning: implicit declaration of function ‘retrun’ [-Wimplicit-function-declaration]
+   25 |  retrun (dest);
+      |  ^~~~~~
+/usr/bin/ld: /tmp/ccDrJ4CC.o: in function `ft_range':
+ft_range.c:(.text+0xeb): undefined reference to `retrun'
+collect2: error: ld returned 1 exit status
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]

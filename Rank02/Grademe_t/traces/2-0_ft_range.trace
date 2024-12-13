@@ -1,0 +1,20 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "1" "3"         🔎 YOUR OUTPUT:
+../../rendu/ft_range/ft_range.c: In function ‘ft_range’:
+../../rendu/ft_range/ft_range.c:12:45: error: expected ‘)’ before ‘;’ token
+   12 |   dest = (int *)malloc(sizeof(int) * (range);
+      |                                             ^
+      |                                             )
+../../rendu/ft_range/ft_range.c:17:17: error: expected ‘;’ before ‘}’ token
+   17 |   return (dest);
+      |                 ^
+      |                 ;
+   18 |  }
+      |  ~               
+../../rendu/ft_range/ft_range.c:25:2: warning: implicit declaration of function ‘retrun’ [-Wimplicit-function-declaration]
+   25 |  retrun (dest);
+      |  ^~~~~~
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
