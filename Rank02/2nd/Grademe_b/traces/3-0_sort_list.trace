@@ -1,0 +1,16 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out         🔎 YOUR OUTPUT:
+../../rendu/sort_list/sort_list.c: In function ‘sort_list’:
+../../rendu/sort_list/sort_list.c:17:11: error: ‘NULL’ undeclared (first use in this function)
+   17 |   return (NULL);
+      |           ^~~~
+../../rendu/sort_list/sort_list.c:1:1: note: ‘NULL’ is defined in header ‘<stddef.h>’; did you forget to ‘#include <stddef.h>’?
+  +++ |+#include <stddef.h>
+    1 | typedef struct s_list t_list;
+../../rendu/sort_list/sort_list.c:17:11: note: each undeclared identifier is reported only once for each function it appears in
+   17 |   return (NULL);
+      |           ^~~~
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
