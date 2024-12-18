@@ -1,0 +1,9 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "16"         🔎 YOUR OUTPUT:
+/usr/bin/ld: /tmp/ccImW5L3.o: in function `main':
+main.c:(.text+0x0): multiple definition of `main'; /tmp/ccIRj0HT.o:ft_itoa.c:(.text+0x129): first defined here
+collect2: error: ld returned 1 exit status
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
