@@ -1,0 +1,9 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "Ceci permet de decouvrir le fonctionnement de ton ft_strcpy."         🔎 YOUR OUTPUT:
+../../rendu/ft_strcpy/ft_strcpy.c:1:25: error: expected ‘;’, ‘,’ or ‘)’ before ‘.’ token
+    1 | char *ft_strcpy(char *s1. char *s2)
+      |                         ^
+
+        ❌ COMPILATION ERROR
+----------------8<------------- END TEST ]
