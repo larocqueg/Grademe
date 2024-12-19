@@ -1,0 +1,8 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "You hate people! But I love gatherings. Isn't it ironic?" 
+        🔎 YOUR OUTPUT:
+ironic? it Isn't gatherings. loveI But people! hate You$
+        🗝 EXPECTED OUTPUT:
+ironic? it Isn't gatherings. love I But people! hate You$
+----------------8<------------- END TEST ]
