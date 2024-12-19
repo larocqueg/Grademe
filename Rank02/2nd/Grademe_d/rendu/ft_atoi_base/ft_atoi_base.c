@@ -26,8 +26,18 @@ int	ft_atoi_base(const char *str, int str_base)
 			digit = str[i] - 'A' + 10;
 		else
 			break ;
+		if (digit >= str_base)
+			break ;
 		res = res * str_base + digit;
 		i++;
 	}
 	return (res * sign);
+}
+
+#include <stdio.h>
+#include <stdlib.h>
+int	main(int ac, char **av)
+{
+	int base = atoi(av[2]);
+	printf("%i\n", ft_atoi_base(av[1], base));
 }
