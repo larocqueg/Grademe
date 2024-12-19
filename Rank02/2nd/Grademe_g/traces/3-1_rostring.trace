@@ -1,0 +1,8 @@
+----------------8<-------------[ START TEST 
+        💻 TEST
+./a.out "first" "2" "11000000" 
+        🔎 YOUR OUTPUT:
+$
+        🗝 EXPECTED OUTPUT:
+first$
+----------------8<------------- END TEST ]
